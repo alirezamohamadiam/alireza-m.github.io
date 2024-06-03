@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my Academic website! I'm Alireza Mohammadi, a Computer Engineer at Islamic Azad University in Kermanshah, Iran. This site showcases my journey through the fascinating world of Artificial Intelligence, Machine Learning, and Optimization, reflecting my dedication to leveraging technology for impactful solutions.
+I'm Alireza Mohammadi, a Computer Engineer at Islamic Azad University in Kermanshah, Iran. This site showcases my journey through the fascinating world of Artificial Intelligence, Machine Learning, and Optimization, reflecting my dedication to leveraging technology for impactful solutions.
 
 ## About Me
 
@@ -26,12 +26,6 @@ In addition to my research, I have also served as a Teaching Assistant, assistin
 - 📈 Machine Learning
 - 🔧 Optimization
 - 📊 Data-driven Approaches
-
-📚 **Publications:**  
-I have authored and co-authored several research papers published in esteemed journals and conferences. My work includes designing and optimizing photonic crystal-based optical gates using machine learning and Deep learning.
-
-🏆 **Awards & Honors:**  
-I have been recognized for my exceptional talent and contributions to the field of computer engineering. Some of my notable achievements include conducting a workshop on 'An Introduction to Artificial Intelligence' at Islamic Azad University, being interviewed by Hamshahri newspaper and hispanTV as a student inventor, and ranking first in Laboratory Sciences in Kermanshah province.
 
 🔧 **Skills:**
 - Programming: Python, C++
