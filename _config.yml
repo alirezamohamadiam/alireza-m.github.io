@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alireza's Academic website"
+title                    : "Alireza's Website"
 title_separator          : "-"
 name                     : &name "Alireza Mohamadi"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile-pic (1).png"
   name             : "Alireza Mohamadi"
   pronouns         : "her"  
-  bio              : "I like getting into creating advanced technology"
+  bio              : "ML Researcher & Research Assistant in IAU"
   location         : "IRAN"
   employer         : #"Red Brick University"
   uri              : # URL
