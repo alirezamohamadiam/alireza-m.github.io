@@ -13,7 +13,7 @@ I'm Alireza Mohammadi, a Research Assistant at IAU in Kermanshah, Iran. I like g
 ## About Me
 
 🎓 **Education:**  
-I am currently hold a B.Sc. in Computer Engineering at Islamic Azad University, Kermanshah Branch, with a CGPA of 3.5/4. My academic journey is fueled by a passion for solving complex problems and driving innovation through technology.
+I currently hold a B.Sc. in Computer Engineering from Islamic Azad University, Kermanshah Branch, with a CGPA of 3.5/4. My academic journey is driven by a passion for tackling complex problems and fostering innovation through technology.
 
 🔬 **Research & Academic Experience:**  
 As a Research Assistant at Islamic Azad University, I am deeply involved in the development and optimization of machine learning and deep learning algorithms for various applications. Under the guidance of Dr. Parandin, I have contributed to multiple research projects and publications, focusing on enhancing the performance of photonic crystal-based optical gates and predicting castration resistance events in prostate cancer.
